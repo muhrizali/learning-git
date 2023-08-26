@@ -1,7 +1,3 @@
----
-version: "Version-2"
----
-
 # Learning Git
 - This is repository for myself.
 - I am just learning git.
